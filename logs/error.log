@@ -1,0 +1,150 @@
+﻿[Mon Sep 12 2016 12:11:24 GMT+0800 (中国标准时间)]/admin/profile/ajax/resetPwd
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:344:11)
+    at ServerResponse.header (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:718:10)
+    at ServerResponse.send (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:163:12)
+    at done (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:957:10)
+    at View.exports.renderFile [as engine] (E:\Jungle\github\myBlog\node_modules\ejs\lib\ejs.js:383:10)
+    at View.render (E:\Jungle\github\myBlog\node_modules\express\lib\view.js:126:8)
+    at tryRender (E:\Jungle\github\myBlog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (E:\Jungle\github\myBlog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:961:7)
+    at E:\Jungle\github\myBlog\app.js:79:13
+    at Layer.handle_error (E:\Jungle\github\myBlog\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:310:13)
+    at E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:330:12)
+    at next (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (E:\Jungle\github\myBlog\node_modules\express\lib\router\layer.js:67:12)
+[Mon Sep 12 2016 12:12:01 GMT+0800 (中国标准时间)]/admin/profile/ajax/resetPwd
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:344:11)
+    at ServerResponse.header (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:718:10)
+    at ServerResponse.send (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:163:12)
+    at done (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:957:10)
+    at View.exports.renderFile [as engine] (E:\Jungle\github\myBlog\node_modules\ejs\lib\ejs.js:383:10)
+    at View.render (E:\Jungle\github\myBlog\node_modules\express\lib\view.js:126:8)
+    at tryRender (E:\Jungle\github\myBlog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (E:\Jungle\github\myBlog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:961:7)
+    at E:\Jungle\github\myBlog\app.js:79:13
+    at Layer.handle_error (E:\Jungle\github\myBlog\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:310:13)
+    at E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:330:12)
+    at next (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (E:\Jungle\github\myBlog\node_modules\express\lib\router\layer.js:67:12)
+[Mon Sep 12 2016 12:12:28 GMT+0800 (中国标准时间)]/admin/profile/ajax/resetPwd
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:344:11)
+    at ServerResponse.header (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:718:10)
+    at ServerResponse.send (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:163:12)
+    at done (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:957:10)
+    at View.exports.renderFile [as engine] (E:\Jungle\github\myBlog\node_modules\ejs\lib\ejs.js:383:10)
+    at View.render (E:\Jungle\github\myBlog\node_modules\express\lib\view.js:126:8)
+    at tryRender (E:\Jungle\github\myBlog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (E:\Jungle\github\myBlog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:961:7)
+    at E:\Jungle\github\myBlog\app.js:79:13
+    at Layer.handle_error (E:\Jungle\github\myBlog\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:310:13)
+    at E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:330:12)
+    at next (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (E:\Jungle\github\myBlog\node_modules\express\lib\router\layer.js:67:12)
+[Mon Sep 12 2016 14:06:36 GMT+0800 (中国标准时间)]/admin/profile/ajax/resetPwd
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:344:11)
+    at ServerResponse.header (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:718:10)
+    at ServerResponse.contentType (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:551:15)
+    at ServerResponse.send (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:138:14)
+    at done (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:957:10)
+    at View.exports.renderFile [as engine] (E:\Jungle\github\myBlog\node_modules\ejs\lib\ejs.js:383:10)
+    at View.render (E:\Jungle\github\myBlog\node_modules\express\lib\view.js:126:8)
+    at tryRender (E:\Jungle\github\myBlog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (E:\Jungle\github\myBlog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:961:7)
+    at E:\Jungle\github\myBlog\app.js:79:13
+    at Layer.handle_error (E:\Jungle\github\myBlog\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:310:13)
+    at E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:330:12)
+    at next (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:271:10)
+[Mon Sep 12 2016 14:08:37 GMT+0800 (中国标准时间)]/admin/profile/ajax/resetPwd
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:344:11)
+    at ServerResponse.header (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:718:10)
+    at ServerResponse.contentType (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:551:15)
+    at ServerResponse.send (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:138:14)
+    at done (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:957:10)
+    at View.exports.renderFile [as engine] (E:\Jungle\github\myBlog\node_modules\ejs\lib\ejs.js:383:10)
+    at View.render (E:\Jungle\github\myBlog\node_modules\express\lib\view.js:126:8)
+    at tryRender (E:\Jungle\github\myBlog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (E:\Jungle\github\myBlog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:961:7)
+    at E:\Jungle\github\myBlog\app.js:79:13
+    at Layer.handle_error (E:\Jungle\github\myBlog\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:310:13)
+    at E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:330:12)
+    at next (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:271:10)
+[Mon Sep 12 2016 14:49:43 GMT+0800 (中国标准时间)]/admin/profile/ajax/resetPwd
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:344:11)
+    at ServerResponse.header (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:718:10)
+    at ServerResponse.send (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:163:12)
+    at done (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:957:10)
+    at View.exports.renderFile [as engine] (E:\Jungle\github\myBlog\node_modules\ejs\lib\ejs.js:383:10)
+    at View.render (E:\Jungle\github\myBlog\node_modules\express\lib\view.js:126:8)
+    at tryRender (E:\Jungle\github\myBlog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (E:\Jungle\github\myBlog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:961:7)
+    at E:\Jungle\github\myBlog\app.js:79:13
+    at Layer.handle_error (E:\Jungle\github\myBlog\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:310:13)
+    at E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:330:12)
+    at next (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (E:\Jungle\github\myBlog\node_modules\express\lib\router\layer.js:67:12)
+[Mon Sep 12 2016 15:40:27 GMT+0800 (中国标准时间)]/admin/profile/ajax/resetPwd
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:344:11)
+    at ServerResponse.header (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:718:10)
+    at ServerResponse.send (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:163:12)
+    at done (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:957:10)
+    at View.exports.renderFile [as engine] (E:\Jungle\github\myBlog\node_modules\ejs\lib\ejs.js:383:10)
+    at View.render (E:\Jungle\github\myBlog\node_modules\express\lib\view.js:126:8)
+    at tryRender (E:\Jungle\github\myBlog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (E:\Jungle\github\myBlog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (E:\Jungle\github\myBlog\node_modules\express\lib\response.js:961:7)
+    at E:\Jungle\github\myBlog\app.js:79:13
+    at Layer.handle_error (E:\Jungle\github\myBlog\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:310:13)
+    at E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:330:12)
+    at next (E:\Jungle\github\myBlog\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (E:\Jungle\github\myBlog\node_modules\express\lib\router\layer.js:67:12)
+[Wed Sep 14 2016 14:07:05 GMT+0800 (中国标准时间)]/blog
+Error: Failed to lookup view "error" in views directory "E:\Jungle\github\futureBlog\views"
+    at EventEmitter.render (E:\Jungle\github\futureBlog\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (E:\Jungle\github\futureBlog\node_modules\express\lib\response.js:961:7)
+    at E:\Jungle\github\futureBlog\app.js:65:13
+    at Layer.handle_error (E:\Jungle\github\futureBlog\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (E:\Jungle\github\futureBlog\node_modules\express\lib\router\index.js:310:13)
+    at E:\Jungle\github\futureBlog\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (E:\Jungle\github\futureBlog\node_modules\express\lib\router\index.js:330:12)
+    at next (E:\Jungle\github\futureBlog\node_modules\express\lib\router\index.js:271:10)
+    at E:\Jungle\github\futureBlog\app.js:55:3
+    at Layer.handle [as handle_request] (E:\Jungle\github\futureBlog\node_modules\express\lib\router\layer.js:95:5)
+[Wed Sep 14 2016 14:07:08 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "E:\Jungle\github\futureBlog\views"
+    at EventEmitter.render (E:\Jungle\github\futureBlog\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (E:\Jungle\github\futureBlog\node_modules\express\lib\response.js:961:7)
+    at E:\Jungle\github\futureBlog\app.js:65:13
+    at Layer.handle_error (E:\Jungle\github\futureBlog\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (E:\Jungle\github\futureBlog\node_modules\express\lib\router\index.js:310:13)
+    at E:\Jungle\github\futureBlog\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (E:\Jungle\github\futureBlog\node_modules\express\lib\router\index.js:330:12)
+    at next (E:\Jungle\github\futureBlog\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (E:\Jungle\github\futureBlog\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (E:\Jungle\github\futureBlog\node_modules\express\lib\router\index.js:310:13)
